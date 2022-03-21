@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Samara
+### Hi there 👋
 
-A solution architect and student from Brazil
+
+I'm Samara a solution architect 
 
 My main skills ⚡  
 <p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png" alt="dotnet" width="40" height="40"/> <img <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="40" height="40"/></p>
